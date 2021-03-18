@@ -14,8 +14,8 @@ public class Jira_Reader {
 //		String sessionId = "";
 //		String JsonData = "";
 		String JiraURL = "https://jira.sonymobile.net/rest/api/latest/issue/PSTQA-80/watchers";
-		String UserName = "XP032974";
-		String Password = "gsx7HzB82xRv";
+		String UserName = "";
+		String Password = "";
 		boolean errorsOcurred = false;
 		
 		if(!errorsOcurred) {
